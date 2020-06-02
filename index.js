@@ -1,6 +1,6 @@
 /* Given Code, don't edit */
 
-function handleClick(e) {
+function handleClick() {
   const time = document.getElementById('time').value
   displayMessage(greet(time))
 }
