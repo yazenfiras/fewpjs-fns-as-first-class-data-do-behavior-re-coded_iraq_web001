@@ -1,8 +1,8 @@
 /* Given Code, don't edit */
 
 function handleClick(e) {
-  const timeString = document.getElementById('time').value
-  displayMessage(greet(timeString))
+  const time = document.getElementById('time').value
+  displayMessage(greet(time))
 }
 
 /* End Given Code, don't edit above here...*/
